@@ -17,8 +17,6 @@
 | john | password | senior-hrd |
 | lee | password | hrd |
 
-<br>
-
 - `php artisan passport:install`
 <br>
 
