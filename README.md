@@ -21,7 +21,6 @@
 
 - `php artisan passport:install`
 <br>
-<br>
 
 ## API URL
 
